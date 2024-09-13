@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EU1bad0ZlBKFW3xzitcyzgxIfpffmkMmBtQPkZBrp18=",
+  "Source": "bankaApi",
+  "BasePath": "_content/bankaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
